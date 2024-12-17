@@ -4,3 +4,4 @@ numpy>=1.21
 matplotlib>=3.4
 scikit-learn>=1.0
 fpdf>=1.7
+reportlab>=4.0
